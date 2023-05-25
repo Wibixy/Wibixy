@@ -1,6 +1,6 @@
 Hi, I’m @Wibixy :)
 
-I'm currently learning JavaScript (and some Python)
+I'm currently learning JavaScript (and some Python) + 3D and 2D modeling 
 
 You can contact me through discord! My DMs are open!
 
